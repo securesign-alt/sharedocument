@@ -1,5 +1,5 @@
 Protected Document Access
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,7 +50,5 @@ Protected Document Access
         <p>Loading secure document, please wait...</p>
     </div>
 
-</body>
-</html>
 </body>
 </html>
